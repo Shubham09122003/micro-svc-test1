@@ -41,3 +41,4 @@ venv.bak/
 Thumbs.db
 *.bak
 *.swp
+.vercel
